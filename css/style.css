@@ -6169,11 +6169,11 @@ textarea.form-control {
     grid-row: 1;
   }
   .timeline .template-2 .image-1 {
-    padding-top: 50%;
+    padding-top: 155%;
   }
   .timeline .template-2 .image-2 {
     grid-column: 2/span 12;
-    padding-top: 65%;
+    padding-top: 156%;
   }
   .timeline .template-2 .description-wrapper {
     grid-column: 2/24;
